@@ -1,0 +1,5 @@
+#include <studih>
+
+int main{
+    
+}
